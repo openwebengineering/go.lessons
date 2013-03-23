@@ -2,6 +2,11 @@
 
 package main
 
+//
+// If you have trouble, see hints/chan01.txt... but try hard to get it
+// first!
+//
+
 type GopherTunnel struct {
 	Data chan string
 }
