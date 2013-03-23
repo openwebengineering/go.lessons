@@ -1,0 +1,4 @@
+What is the zero value of a channel?
+
+Still not sure?  Another hint: read this section of the Go spec
+http://golang.org/ref/spec#The_zero_value
