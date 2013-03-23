@@ -10,3 +10,8 @@ In short: I give you a program that seems like it should work, and you
 find the bug in it, resulting in an "aha!" moment that teaches you
 something important about Go.  If you run into trouble, view the hint
 associated with that lesson.
+
+
+## Can I request a new lesson?
+
+Absolutely!  Email us: <go@openwebengineering.com>
